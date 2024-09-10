@@ -1,1 +1,2 @@
-# networkingservice
+# Backend
+Backend for RevHire application
